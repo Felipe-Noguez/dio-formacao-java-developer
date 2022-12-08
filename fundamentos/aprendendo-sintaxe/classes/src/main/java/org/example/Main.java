@@ -2,6 +2,15 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        String primeiroNome = "Felipe";
+        String segundoNome = "Noguez";
+
+        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
+
+        System.out.println(nomeCompleto);
+    }
+
+    public static String nomeCompleto(String pNome, String sNome) {
+        return pNome.concat(" ").concat(sNome);
     }
 }

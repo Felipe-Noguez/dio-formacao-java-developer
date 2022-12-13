@@ -1,4 +1,4 @@
-package org.example;
+package br.com.noguez;
 
 public class Main {
     public static void main(String[] args) {

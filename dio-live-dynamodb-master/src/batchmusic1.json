@@ -1,0 +1,74 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene One: Regression"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Two: Part I. Overture 1928"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Two: Part II. Strange Deja Vu"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Three: Part I. Through My Words"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Three: Part II. Fatal Tragedy"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Four: Beyond This Life"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "Scene Five: Through Her Eyes"},
+                  "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        }
+      ]
+}
